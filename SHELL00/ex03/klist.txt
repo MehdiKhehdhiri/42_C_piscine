@@ -1,0 +1,6 @@
+Credentials cache: API:48C8F051-8764-4E7D-BBBB-E586A16A69C8
+        Principal: mkhedhir@42.FR
+
+  Issued                Expires             Flags    Principal
+Aug  2 10:25:04 2021  Aug  9 10:25:04 2021  FPRIA  krbtgt/42.FR@42.FR
+Aug  2 10:25:05 2021  Aug  9 10:25:04 2021  FPA    HTTP/student-storage-2.42.fr@42.FR
